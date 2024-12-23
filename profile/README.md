@@ -23,7 +23,7 @@ At Eko, our vision is to revolutionize brand engagement across India's diverse m
 
 We offer a range of APIs and tools to help developers integrate financial services seamlessly:
 - 💻 **Eko's Developer Portal**: Access our comprehensive API documentation and guides. [Visit here](https://developers.eko.in).
-- 🤖 **Ask ChatGPT:** Ask the AI agent for code or explanations about Eko's open APIs. [Visit here](https://chatgpt.com/g/g-675beffedcf081919b01a7ad6774cbbb-eko-developer-gpt-beta)
+- 🤖 **Ask ChatGPT:** Ask the AI agent for code or explanation about Eko's open APIs. [Visit here](https://chatgpt.com/g/g-675beffedcf081919b01a7ad6774cbbb-eko-developer-gpt-beta)
 - 🧰 **Eko's Tech Stack**: Explore the technologies that power our platform. [Learn more](https://stackshare.io/ekoindia/eko-tech-stack).
 
 ## Get in Touch
