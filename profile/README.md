@@ -1,7 +1,3 @@
-# Eko India Financial Services Pvt. Ltd.
-
-![Eko Logo](https://eko.in/assets/img/eko-logo.svg)
-
 **Welcome to Eko's official GitHub organization!** Here, we share our open-source projects, APIs, and tools that empower developers to build innovative financial solutions.
 
 ## About Eko
