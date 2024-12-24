@@ -72,5 +72,9 @@ Please follow these guidelines to ensure consistency in our codebase:
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 
+## A quick note to new contributors
+- As a new contributor, you might have noticed that some issues are labeled as `needs triage`.
+  - When an issue is labeled as "Needs Triage," it indicates that the issue has been submitted but has not yet been reviewed or assigned to a specific team member for further action.
+  - If the issue does not have a Needs Triage label it means that the issue is reviewed by the specific team member.
 
 We appreciate your contributions and look forward to collaborating with you!
