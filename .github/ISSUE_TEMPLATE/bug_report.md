@@ -10,10 +10,10 @@ assignees: ''
 ### Describe the bug
 A clear and concise description of what the bug is.
 
-### Expected behaviour
+### Expected behavior
 Tell us what should happen
 
-### Actual behaviour
+### Actual behavior
 Tell us what happens instead
 
 ## How to reproduce?
